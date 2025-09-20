@@ -18,14 +18,14 @@ module.exports = {
             + 'VERSION:3.0\n' 
             + 'FN:Mohammad Nayan\n'
             + 'ORG:Nayan;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=8801615298449:01615298449\n'
+            + 'TEL;type=CELL;type=VOICE;waid=8801711209381:01711209381\n'
             + 'END:VCARD';
 
     const sentMsg = await api.sendMessage(
       threadId,
       { 
         contacts: { 
-          displayName: 'Mohammad Nayan', 
+          displayName: 'Mohammad Rahi', 
           contacts: [{ vcard }] 
         }
       }
