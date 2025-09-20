@@ -7,7 +7,7 @@ module.exports = {
     permission: 0,
     prefix: 'both',
     categorie: 'Utilities',
-    credit: 'Developed by Mohammad Nayan',
+    credit: 'Developed by Mohammad 𝐑𝐚𝐡𝐢',
     usages: [`${global.config.PREFIX}info - Show admin and server information.`],
   },
   start: async ({ event, api, message }) => {
@@ -24,19 +24,19 @@ module.exports = {
 
       const infoMessage = `
 --------------------------------------------
-𝐍𝐚𝐦𝐞           : 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐲𝐚𝐧
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤       : 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐲𝐚𝐧
+𝐍𝐚𝐦𝐞           : 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐑𝐚𝐡𝐢
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤       : 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐑𝐚𝐡𝐢
 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧       : 𝐈𝐬𝐥𝐚𝐦
-𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: 𝐓𝐚𝐧𝐠𝐚𝐢𝐥, 𝐃𝐡𝐚𝐤𝐚
-𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : 𝐌𝐨𝐲𝐦𝐨𝐧𝐬𝐢𝐧𝐡, 𝐃𝐡𝐚𝐤𝐚 𝐁𝐲𝐩𝐚𝐬𝐬
+𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: 𝐆𝐎𝐋𝐀𝐏𝐆𝐎𝐍𝐉 𝐒𝐘𝐋𝐇𝐄𝐓
+𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : 𝐆𝐎𝐋𝐀𝐏𝐆𝐎𝐍𝐉 𝐒𝐘𝐋𝐇𝐄𝐓
 𝐆𝐞𝐧𝐝𝐞𝐫       : 𝐌𝐚𝐥𝐞
 𝐀𝐠𝐞           : 𝟏𝟖+
 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 : 𝐒𝐢𝐧𝐠𝐥𝐞
 𝐖𝐨𝐫𝐤         : 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
-𝐆𝐦𝐚𝐢𝐥       : mohammadnayan447@gmail.com
-𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩   : wa.me/+8801615298449
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦     : t.me/MOHAMMADNAYAN
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤: https://www.facebook.com/www.xnxx.com169
+𝐆𝐦𝐚𝐢𝐥       : rahiahmed143@gmail.com
+𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩   : wa.me/+8801711209381
+𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦     : t.me/Rahiahmed_v2
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤: https://www.facebook.com/profile.php?id=61578991060721
 
 --------------------------------------------
 \`\`\`
