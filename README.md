@@ -1,7 +1,7 @@
 # 🤖 𝐑𝐀𝐇𝐈 𝐁𝐎𝐓 𝐁𝐁𝐘
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=𝐑𝐀𝐇𝐈%𝐁𝐎𝐓%20𝐁𝐁𝐘&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=𝐑𝐀𝐇𝐈%20𝐁𝐎𝐓%20𝐁𝐁𝐘&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
