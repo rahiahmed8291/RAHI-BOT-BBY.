@@ -119,7 +119,7 @@ prefix: 'both' (prefix nonprefix both work)
 ## visit:
 
 ```
-https://nayan-whatsapp-bot-paircode.onrender.com
+https://rahi-whatsapp-bot-paircode.onrender.com
 ```
 
 > The server provides **Pair Code** and **QR Code** login options.
