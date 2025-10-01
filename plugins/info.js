@@ -27,7 +27,7 @@ module.exports = {
 ➥ 𝐇𝐞𝐲 𝐌𝐫/𝐦𝐢𝐬𝐬 
 ╭────《  ᴍʏ ꜱᴇʟꜰ 》────⊷
 │ ╭──────✧❁✧──────◆
-│ │ 🌸 ɴᴀᴍᴇ :- 『Mᴏʜᴀᴍᴍᴀᴅ Rꫝʜɪ  』
+│ │ 🌸 ɴᴀᴍᴇ :- 『 Mᴏʜᴀᴍᴍᴀᴅ Rꫝʜɪ  』
 │ │ 🏡 ғʀᴏᴍ :- 『  Sʏʟʜᴇᴛ 』
 │ │ 📘 ᴄʟᴀꜱs :- 『 Nᴏᴛ 』
 │ │ 💖 ʀʟs :- 『 Sɪɴɢʟᴇ Uʟᴛᴀ Pʀᴏ Mᴀx 』
@@ -52,7 +52,7 @@ module.exports = {
 
       await api.sendMessage(
             event.threadId,
-            { image: { url: "https://i.postimg.cc/7hv5zWYQ/IMG-20250913-WA0082.jpg" }, caption: infoMessage || '' },
+            { image: { url: "https://i.postimg.cc/J4cvqfDx/IMG-20251001-WA0001.jpg" }, caption: infoMessage || '' },
             { quoted: event.message }
           );;
     } catch (error) {
