@@ -21,7 +21,7 @@
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/MOHAMMAD-NAYAN-07/NAYAN-WHATSAPP-BOT/fork">
+  <a href="https://github.com/rahiahmed8291/RAHI-BOT-BBY/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -98,8 +98,8 @@ prefix: 'both' (prefix nonprefix both work)
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/MOHAMMAD-NAYAN/NAYAN-WHATSAPP-BOT.git
-    cd NAYAN-WHATSAPP-BOT
+    git clone https://github.com/rahiahmed8291/RAHI-BOT-BBY..git
+    cd RAHI-BOT-BBY
     ```
 
 2. **Install the dependencies:**
