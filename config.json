@@ -8,7 +8,7 @@
   "autoUpdate": true,
   "timeZone": "Asia/Dhaka",
   "botUid": "",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "admin": [
     "your main number",
     "your grp id"
