@@ -57,10 +57,10 @@ For further customization and setup guidance, click the button below:
 ### Join Us
 
 <div align="center">
-  <a href="https://t.me/TEAM_X4X">
+  <a href="https://t.me/+ZdWhmUORHZI5NTFl">
     <img src="https://img.shields.io/badge/Join%20Telegram Channel-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram channel"/>
   </a><br>
-  <a href="https://t.me/TEAM_X4X_CHAT">
+  <a href="https://t.me/mar_rahi_number_king">
     <img src="https://img.shields.io/badge/Join%20Telegram Support-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram support"/>
   </a>
 </div>
@@ -131,7 +131,7 @@ https://rahi-whatsapp-bot-paircode.onrender.com
 1. Open your browser and visit:
 
 ```
-https://nayan-whatsapp-bot-paircode.onrender.com
+https://rahi-bot-bby-paircode.onrender.com
 ```
 
 2. Ensure **Pair Code** mode is selected (toggle at top).
@@ -139,7 +139,7 @@ https://nayan-whatsapp-bot-paircode.onrender.com
 3. Enter your WhatsApp number with country code, e.g.:
 
 ```text
-88016152*****
+88017112*****
 ```
 
 4. Click **Generate Pair Code**.
@@ -158,7 +158,7 @@ After pairing, the server will generate a `creds.json` file.
 2. Place it in the **session folder** of your bot:
 
 ```
-NAYAN-WHATSAPP-BOT/session/creds.json
+RAHI-BOT-BBY/session/creds.json
 ```
 
 > ⚠️ This file contains your WhatsApp credentials. Keep it safe!
