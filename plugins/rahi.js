@@ -1,7 +1,7 @@
 module.exports = {
   config: {
-    name: "Rahied",
-    aliases: ["ed", "mybots", "links"],
+    name: "Rahi",
+    aliases: ["rahi", "mybots", "links"],
     permission: 0,
     prefix: true,
     description: "Send all my bot links and tutorials",
