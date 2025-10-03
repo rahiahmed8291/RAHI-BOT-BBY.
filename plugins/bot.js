@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "bot",
     aliases: ["sim"],
-    permission: 0,
+    permission: 1,
     prefix: "both",
     categorie: "AI Chat",
     cooldowns: 5,
