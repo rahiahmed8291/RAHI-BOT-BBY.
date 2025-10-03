@@ -5,7 +5,7 @@ module.exports = {
     name: "baby",
     aliases: ["sim"],
     permission: 1,
-    prefix: "babyh",
+    prefix: "both",
     categorie: "AI Chat",
     cooldowns: 5,
     credit: "Developed by Mohammad Rahi",
