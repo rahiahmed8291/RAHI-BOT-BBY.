@@ -3,7 +3,7 @@ const axios = require("axios");
 module.exports = {
   config: {
     name: "bot",
-    aliases: ["sim"],
+    aliases: ["sin"],
     permission: 1,
     prefix: "both",
     categorie: "AI Chat",
